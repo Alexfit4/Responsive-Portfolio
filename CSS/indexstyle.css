@@ -1,29 +1,4 @@
-.img1 {
-	float: left;
-}
-
-.aboutme {
-	margin-left: 300px;
-}
-
-.cont1 {
-	margin-top: 50px;
-	margin-left: 50px;
-	margin-right: 500px;
-}
-
-.h1 {
-	color: #40e0d0;
-	margin-top: 100px;
-	margin-left: 50px;
-}
-
-.bottom-container {
-	position: fixed;
-	text-align: center;
-	bottom: 0px;
-	width: 100%;
-}
+/* Body style and background image */
 
 body {
 	background-image: url("./faded_blue.jpg");
@@ -32,6 +7,10 @@ body {
 	background-size: cover;
 }
 
+/* Text color changes in the first col tag and the paragraph tag */
+.col {
+	color: #40e0d0;
+}
 p {
 	color: #40e0d0;
 }
