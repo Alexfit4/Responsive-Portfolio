@@ -1,0 +1,11 @@
+.col-lg-6 h2 {
+	text-indent: 120px;
+	color: #40e0d0;
+}
+
+body {
+	background-image: url("./4K-Tech-HD-Wallpapers.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}

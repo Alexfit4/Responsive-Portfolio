@@ -40,3 +40,14 @@ h1 {
 	font-weight: bold;
 	color: #40e0d0;
 }
+
+body {
+	background-image: url("./4K-Tech-HD-Wallpapers.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+label {
+	color: #40e0d0;
+}
