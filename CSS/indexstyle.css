@@ -12,5 +12,19 @@ body {
 	color: #40e0d0;
 }
 p {
-	color: #40e0d0;
+	color: #2aa195;
+}
+
+.card {
+	height: 280px;
+	background-color: lightblue;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	text-align: center;
 }
