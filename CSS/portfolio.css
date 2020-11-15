@@ -1,8 +1,10 @@
-.col-lg-6 h2 {
-	text-indent: 120px;
+/* column h5 text color and positioning  */
+.col-lg-4 h5 {
 	color: #40e0d0;
+	text-align: center;
 }
 
+/* body background image and layout */
 body {
 	background-image: url("./faded_blue.jpg");
 	background-repeat: no-repeat;
