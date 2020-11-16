@@ -20,6 +20,12 @@ p {
 	background-color: lightblue;
 }
 
+.container {
+	width: auto;
+	max-width: 680px;
+	padding: 0 15px;
+}
+
 .footer {
 	position: fixed;
 	left: 0;
@@ -27,4 +33,5 @@ p {
 	width: 100%;
 	color: white;
 	text-align: center;
+	background-color: black;
 }

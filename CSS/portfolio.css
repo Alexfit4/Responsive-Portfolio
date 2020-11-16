@@ -4,10 +4,31 @@
 	text-align: center;
 }
 
+.Header {
+	color: #40e0d0;
+	text-align: center;
+	padding-top: 20px;
+}
 /* body background image and layout */
 body {
 	background-image: url("./faded_blue.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
+}
+
+.container {
+	width: auto;
+	max-width: 680px;
+	padding: 0 15px;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	text-align: center;
+	background-color: black;
 }
