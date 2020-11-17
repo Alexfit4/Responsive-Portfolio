@@ -9,7 +9,8 @@
 ### - Uses bootstrap and bootstrap grid system.
 
 ## Screenshots:
-![](./CSS/about_me.png)
+
+![aboutme_screnshot](https://user-images.githubusercontent.com/69173896/99452325-657f4100-28f1-11eb-940c-c4cddb7224f2.png)
 ![](./CSS/contact_me.png)
 ![](./CSS/portfolio.png)
 
