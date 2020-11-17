@@ -9,7 +9,7 @@
 ### - Uses bootstrap and bootstrap grid system.
 
 ## Screenshots:
-![](./CSS/about_me.png)
+
 ![](./CSS/contact_me.png)
 ![](./CSS/portfolio.png)
 
