@@ -15,16 +15,20 @@ p {
 	color: #2aa195;
 }
 
+/* Card style and positioning */
 .card {
 	height: 280px;
 	background-color: lightblue;
 }
 
+/* Container Positioning */
 .container {
 	width: auto;
 	max-width: 680px;
 	padding: 0 15px;
 }
+
+/* Sticky Footer positioning */
 
 .footer {
 	position: fixed;
