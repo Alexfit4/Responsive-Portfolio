@@ -50,17 +50,28 @@
 
 		<div class="row">
 			<div class="col-md-6">
-				<form>
+				<form
+					action="mailto:alex.ashtiany@gmail.com"
+					method="post"
+					enctype="text/plain"
+				>
 					<!-- Input first and last name -->
 					<div class="form-group">
 						<label class="FormControl">First Name</label>
-						<input type="text" class="form-control" placeholder="First name" />
+						<input
+							type="text"
+							name="First-Name"
+							class="form-control"
+							placeholder="First name"
+						/>
 
 						<label class="FormControl">Last Name</label>
-						<input type="text" class="form-control" placeholder="Last name" />
+						<input type="text"
+						name="Last-Name" class="form-control" placeholder="Last name" />
 						<!-- Input Email -->
 						<label class="FormControl">Email address</label>
 						<input
+							name="mail"
 							type="email"
 							class="form-control"
 							id="exampleFormControlInput1"
@@ -71,11 +82,16 @@
 					<div class="form-group">
 						<label for="exampleFormControlTextarea1">Message</label>
 						<textarea
+							type="text"
+							name="Message"
 							class="form-control"
 							id="exampleFormControlTextarea1"
 							rows="3"
 						></textarea>
 					</div>
+					<button type="submit" value="Send" class="btn btn-outline-primary">
+						Send Email
+					</button>
 				</form>
 			</div>
 		</div>
